@@ -1,0 +1,29 @@
+/* 
+ *  Autor: Ruben Rodriguez 
+ *  NIP:   737215 
+ *  Práctica: 1 
+ *  Ejercicio 6
+ */
+
+/* Mejor probar una a una y asi se ve mejor el funcionamiento */
+
+%%
+  egrep '^[0-9]+[^0-9]*[0-9]+$' t1.txt
+  egrep '^[^aeiouAEIOU]*([^aeiouAEIOU]*[aeiouAEIOU][^aeiouAEIOU]*[aeiouAEIOU])*[^aeiouAEIOU]*$' t1.txt
+  egrep '^[0-9]*[13579]+$' t1.txt
+%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
