@@ -1,0 +1,40 @@
+include 
+include 
+include 
+
+import 70
+import55
+
+
+string
+
+String        pruebas3423g_
+
+String pr3g4_
+
+String pr3g5_
+
+String pr3g4b_
+
+String pr3g4b_
+
+String pr3g4b_
+ 
+String pr3g4b_
+
+String pr3g4b_
+
+String pr3g4b_
+
+String pr3g4b_
+
+String pr3g4b_
+
+
+int  fdfs6fsd5_
+
+int &     fdfs6fsd5e_
+
+float  dasdasd_
+
+char ccc      &       ffffff7666ea_
